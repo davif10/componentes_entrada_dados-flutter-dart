@@ -22,3 +22,9 @@
 -Switch
 
 -Slider
+
+# App Mascara Campos
+-Utilizando formatações de campos de texto
+-bibliotecas: brasil_fields e intl
+
+![](https://github.com/davif10/componentes_entrada_dados-flutter-dart/blob/main/mascara.png)
